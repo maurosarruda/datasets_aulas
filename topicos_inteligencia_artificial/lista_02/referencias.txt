@@ -1,0 +1,13 @@
+Bell_2014 - Material recognition in the wild with the materials in context database. CoRR, abs/1412.0623, 2014.
+Chatfield_2014 - Return of the devil in the details: Delving deep into convolutional nets. In Proc. BMVC., 2014.
+Dean_2012 - Large scale distributed deep networks. In NIPS, pp. 1232–1240, 2012.
+Deng_2009 - Imagenet: A large scale hierarchical image database. In Proc. CVPR, 2009.
+Donahue_2013 - Decaf: A deep convolutional activation feature for generic visual recognition. CoRR, abs/1310.1531, 2013.
+Everingham_2015 - The Pascal visual object classes challenge: A retrospective. IJCV, 111(1):98–136, 2015.
+Krizhevsky_2014 - One weird trick for parallelizing convolutional neural networks. CoRR, abs/1404.5997, 2014.
+Krizhevsky_2012 - ImageNet classification with deep convolutional neural networks. In NIPS, pp. 1106–1114, 2012.
+LeCun_1989 - Backpropagation applied to handwritten zip code recognition. Neural Computation, 1(4):541–551, 1989.
+Lin_2014 - Network in network. In Proc. ICLR, 2014.
+Russakovsky_2014 - ImageNet large scale visual recognition challenge. CoRR, abs/1409.0575, 2014.
+Simonyan_2014 - Two stream convolutional networks for action recognition in videos. CoRR, abs/1406.2199, 2014. Published in Proc. NIPS, 2014.
+Perronnin_2010 - Improving the Fisher kernel for large-scale image classification. In Proc. ECCV, 2010.
