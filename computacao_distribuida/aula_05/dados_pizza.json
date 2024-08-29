@@ -1,0 +1,28 @@
+{
+	"pedidos": [
+		{ 
+		 "tamanho": "Média",
+		 "preco": 75.50,
+		 "cobertura": ["peperoni", "azeitona"],
+		 "adicional_queijo": false,
+		 "entrega": true,
+		 "cliente": {
+		  "nome": "Pedro Henrique",
+		  "telefone": null,
+		  "email": "pedro@hotmail.com"
+		 }
+		},
+		{ 
+		 "tamanho": "Grande",
+		 "preco": 90.00,
+		 "cobertura": ["rúcula", "azeitona"],
+		 "adicional_queijo": true,
+		 "entrega": false,
+		 "cliente": {
+		  "nome": "Maria Eduarda",
+		  "telefone": null,
+		  "email": "maria@gmail.com"
+		 }
+		}
+	]
+}
